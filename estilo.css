@@ -2,6 +2,8 @@
 @import "fonts/ravie.css";
 
 body {
-	width: 800px;
+	border-style: solid;
+	border-width: 1px;
 	margin-left: 25%;
+	width: 800px;
 }
