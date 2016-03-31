@@ -1,11 +1,22 @@
 /* Importa o arquivo CSS que importa a fonte Ravie */
 @import "fonts/ravie.css";
 
+#acai-roxo {
+	color: #d027aa;
+}
+
 body {
 	border-style: solid;
 	border-width: 1px;
 	margin: 0% 25%;
 	width: 800px;
+}
+
+#cardapio {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #aac0ae;
+	padding-left: 20px;
 }
 
 #titulo-lanchonete {
@@ -15,6 +26,20 @@ body {
 	margin-left: 30px;
 }
 
+#melhor-acai {
+	color: #333;
+	font-family: "Trebuchet MS";
+	font-size: 24px;
+	margin-left: 205px;
+}
+
 #recipiente {
 	margin-left: 154px;
+}
+
+#secoes-cardapio {
+	color: #333;
+	font-family: "Verdana";
+	font-size: 18px;
+	font-style: bold;
 }
