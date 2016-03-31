@@ -4,6 +4,17 @@
 body {
 	border-style: solid;
 	border-width: 1px;
-	margin-left: 25%;
+	margin: 0% 25%;
 	width: 800px;
+}
+
+#titulo-lanchonete {
+	color: #e90c0c;
+	font-family: "Ravie";
+	font-size: 36px;
+	margin-left: 30px;
+}
+
+#recipiente {
+	margin-left: 154px;
 }
