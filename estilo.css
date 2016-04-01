@@ -13,7 +13,9 @@ body {
 }
 
 #bolhas {
-	
+	position: relative;
+	bottom: 125px;
+	left: -115px;
 }
 
 #cardapio {
@@ -80,6 +82,16 @@ body {
 #tabela-c2 {
 	text-align: right;
 	width: 52px;
+}
+
+#ticket {
+	left: 100px;
+	position: absolute;
+	top: 50%;
+}
+
+#ticket:hover {
+	
 }
 
 #titulo-cardapio {
