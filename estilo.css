@@ -16,7 +16,11 @@ body {
 	border-style: solid;
 	border-width: 1px;
 	border-color: #aac0ae;
+	height: 547px;
+	margin-bottom: 119px;
 	padding-left: 20px;
+	padding-right: 18px;
+	width: 607px;
 }
 
 #titulo-lanchonete {
@@ -42,4 +46,17 @@ body {
 	font-family: "Verdana";
 	font-size: 18px;
 	font-style: bold;
+}
+
+#tabela {
+	border: 0px;
+}
+
+#tabela-c1 {
+	width: 555px;
+}
+
+#tabela-c2 {
+	text-align: right;
+	width: 52px;
 }
