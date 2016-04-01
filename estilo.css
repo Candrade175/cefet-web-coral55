@@ -27,6 +27,11 @@ body {
 	width: 607px;
 }
 
+#fundo-colorido {
+	background-clip: padding-box;
+	background-image: linear-gradient(180deg, #f6f1b2, #4599b2 50%);
+}
+
 #titulo-lanchonete {
 	color: #e90c0c;
 	font-family: "Ravie";
@@ -59,9 +64,8 @@ body {
 }
 
 #siri {
-	display: inline;
-	left: -10px;
-	position: relative;
+	left: 308px;
+	position: absolute;
 	top: 7px;
 }
 
