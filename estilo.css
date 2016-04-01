@@ -12,6 +12,10 @@ body {
 	width: 800px;
 }
 
+#bolhas {
+	
+}
+
 #cardapio {
 	border-style: solid;
 	border-width: 1px;
@@ -37,6 +41,12 @@ body {
 	margin-left: 205px;
 }
 
+#peixe {
+	bottom: 0px;
+	left: -44px;
+	position: relative;
+}
+
 #recipiente {
 	margin-left: 154px;
 }
@@ -46,6 +56,13 @@ body {
 	font-family: "Verdana";
 	font-size: 18px;
 	font-style: bold;
+}
+
+#siri {
+	display: inline;
+	left: -10px;
+	position: relative;
+	top: 7px;
 }
 
 #tabela {
