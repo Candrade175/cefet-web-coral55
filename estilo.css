@@ -60,3 +60,15 @@ body {
 	text-align: right;
 	width: 52px;
 }
+
+#titulo-cardapio {
+	-webkit-transform:rotate(270deg);
+	
+	color: #333;
+	font-family: "Verdana";
+	font-size: 48px;
+	font-style: bold;
+	margin-left: -200px;
+	margin-top: 200px;
+	position: absolute;
+}
