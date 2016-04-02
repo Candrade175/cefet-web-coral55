@@ -62,7 +62,7 @@ body {
 
 #rodape {
 	bottom: 230px;
-	right: 235px;
+	right: 34.25%;
 	position: fixed;
 }
 
@@ -100,13 +100,14 @@ body {
 }
 
 #ticket {
-	left: 100px;
-	position: absolute;
-	top: 50%;
+	left: -79px;
+	position: fixed;
+	overflow: hidden;
+	top: 275px;
 }
 
 #ticket:hover {
-	
+	left: 0px;
 }
 
 #titulo-cardapio {
